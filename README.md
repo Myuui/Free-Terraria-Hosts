@@ -17,3 +17,4 @@
 
 Reviews | Host | Ram | Number of slots | CPU Frequence | Storage | Location | 24/7 | Link | No Registering | Technical support | Notes
 |--|--|--|--|--|--|--|--|--|--|--|--|
+![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.4 ⭐|godlike.host|2 GB|Unlimited|4.9 GHz (Ryzen 9 5950X)|10 GB|Ukraine :ukraine:|❌|[🌐](https://godlike.host/minecraft-free-server-en/)|❌|✅|High-quality gaming support is provided only for paid plans.|
