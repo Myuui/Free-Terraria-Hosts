@@ -8,14 +8,12 @@
 
  Have you ever wanted to play with your friends *(if you have any)* on a private server, wanted to have one, and then found out that you have to pay **5€ per month** for it?
  
-### Well, I am going to present to you my list of completely free Minecraft hosts just for you.
+### Well, I am going to present to you my list of completely free Terraria hosts just for you.
 <p align="center"> <img src="https://static.wikia.nocookie.net/terraria/images/e/eb/Flying_Piggy_Bank.gif/revision/latest?cb=20180121142030&path-prefix=es" alt="piggy"> </p><div align='center'>
 
 # [EDIT OR ADD A SERVICE ON THIS FORM RIGHT HERE!!!](https://forms.gle/BBTB5xdRM7BiJpco9)
 
 </div>
 
-> [!WARNING]
-> I make this list only for Java servers, and not Bedrock. While some services listed may support Bedrock, I can't guarantee that they are free, nor confirm the specifications of the servers.
->
-> 
+Reviews | Host | Ram | Number of slots | CPU Frequence | Storage | Location | 24/7 | Link | No Registering | Technical support | Notes
+|--|--|--|--|--|--|--|--|--|--|--|--|
