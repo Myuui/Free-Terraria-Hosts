@@ -18,3 +18,17 @@
 Reviews | Host | Ram | Number of slots | CPU Frequence | Storage | Location | 24/7 | Link | No Registering | Technical support | Notes
 |--|--|--|--|--|--|--|--|--|--|--|--|
 ![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.4 ⭐|godlike.host|2 GB|Unlimited|4.9 GHz (Ryzen 9 5950X)|10 GB|Ukraine :ukraine:|❌|[🌐](https://godlike.host/minecraft-free-server-en/)|❌|✅|High-quality gaming support is provided only for paid plans.|
+|![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-3.5.svg) 3.7 ⭐|fps.ms|4 GB|Unlimited|❔|5 GB|Germany :de:|❌|[🌐](https://www.fps.ms/)|❌|✅|New hosting service seeking for feedback.|
+
+***
+
+# Trials Server Listing
+
+> [!WARNING]
+> THESE SERVICES ARE NOT "FREE", THEY ARE TEMPORARY TRIALS 
+>
+> These services don't offer free servers ad infinitum, they're usually temporary trials (can vary from a few hours to a month), these services offer the possibility of using their paid option (therefore better than the free services).
+
+| Reviews | Host | Trial Duration | RAM | Number of Slots | CPU Frequency | Storage | Location | 24/7 | Link | No Registering | Technical Support | Notes |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+![](https://cdn.trustpilot.net/brand-assets/4.1.0/stars/stars-4.5.svg) 4.7 ⭐|vexyhost.com|24h|2 GB|Unlimited|4.5 GHz (Ryzen 7 3800X)|Unlimited|USA :us: / Brazil :brazil: / Netherlands :netherlands: / Argentina :argentina:|❌|[🌐](https://vexyhost.com/free-hosting/minecraft/)|❌|✅|Including 1 free backup
