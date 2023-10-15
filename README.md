@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Myuui/Free-Minecraft-Hosts?style=for-the-badge&logo=Github&logoColor=white&color=E3B341) 
+![GitHub Repo stars](https://img.shields.io/github/stars/Myuui/Free-Terraria-Hosts?style=for-the-badge&logo=Github&logoColor=white&color=E3B341) 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Myuui/Free-Minecraft-Hosts">FMHL</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/Myuui">Myuui</a> is licensed under <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1"></a></p>
 </div>
 
